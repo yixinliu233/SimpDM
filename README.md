@@ -25,4 +25,10 @@ python3 main.py --dataset yacht --epochs 30000 --lr 0.0001 --num_layers 5 --hidd
 
 If you compare with, build on, or use aspects of SimpDM framework, please cite the following:
 ```
+@article{liu2024self,
+  title={Self-supervision improves diffusion models for tabular data imputation},
+  author={Liu, Yixin and Ajanthan, Thalaiyasingam and Husain, Hisham and Nguyen, Vu},
+  journal={arXiv preprint arXiv:2407.18013},
+  year={2024}
+}
 ```
